@@ -2,7 +2,7 @@
 Multi-view Perceptive Network for Few-Shot IC Package Substrates Surface Defect Classification: Benchmark Methodology and Dataset
 
 ## Data Link
-The dataset is uploaded into Google Drive, and the source train and val set data can be download in 
+The dataset is uploaded into Google Drive, and the source train and val set data can be download in [here](https://drive.google.com/file/d/1fulLTcfHK7eb9ldH-M_pkF55djsDVT4Q/view?usp=drive_link).
 
 
 ## AOI System and Dataset
@@ -26,19 +26,29 @@ MvPNet consists of three modules: the Perceptive Class-changed Interaction Modul
 
 ## Experiments results
 
-### CPSFSC Dataset
+All comparison algorithms can be found in 
+
+* [LibFewShot](https://github.com/rl-vig/libfewshot)
+* [GTNet](https://github.com/VDT-2048/FSC-20)
+* [FaNet](https://github.com/successhaha/GTnet)
+* [Bi-FRN](https://github.com/PRIS-CV/Bi-FRN)
+* [ESPT](https://github.com/Whut-YiRong/ESPT)
+* [CPEA](https://github.com/FushengHao/CPEA)
+* [AMMD](https://github.com/WuJi1/AMMD)
+
+### [CPSFSC Dataset](https://drive.google.com/file/d/1fulLTcfHK7eb9ldH-M_pkF55djsDVT4Q/view?usp=drive_link)
 
 <div align=center>
 <img src="https://github.com/090297-L/MvPNet-and-CPSFS-CLS/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20CPSFS-CLS.png" width="400" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/CPS_keshihua.png" width="400" />
 </div>
 
-### FSC-20 Dataset
+### [FSC-20 Dataset](https://github.com/VDT-2048/FSC-20)
 
 <div align=center>
 <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20FSC-20.png" width="400" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/FSC_keshihua.png" width="400" />
 </div>
 
-### MSD-cls Dataset
+### [MSD-cls Dataset](https://github.com/successhaha/GTnet)
 
 ## Display video
 
