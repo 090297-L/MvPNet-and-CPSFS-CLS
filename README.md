@@ -11,8 +11,7 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 
 <div align=center>
   
-[CPS data acquisition system20.pdf](https://github.com/user-attachments/files/17557037/CPS.data.acquisition.system20.pdf)
-
+![AOI System](https://github.com/user-attachments/assets/1fc74352-7e16-4b54-951e-3eab93798b80)
 
 </div>
 
