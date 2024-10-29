@@ -48,7 +48,8 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/f5b1bebd-2a7d-417f-9a4e-8e267c1bf5bc) ![CPS_keshihua](https://github.com/user-attachments/assets/4c6d5235-4344-4e8b-ae2a-e084e8c31142)
+![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/f5b1bebd-2a7d-417f-9a4e-8e267c1bf5bc) ![CPS_keshihua](https://github.com/user-attachments/assets/134bb6b6-590f-4960-a943-7523a3a2cce1)
+
 
 </div>
 
@@ -56,7 +57,8 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/99a69e99-ecc3-40ce-ace9-a13c80121bcf) ![FSC_keshihua](https://github.com/user-attachments/assets/02a7eadb-6c6a-4e04-a064-14c9948c3e20)
+![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/99a69e99-ecc3-40ce-ace9-a13c80121bcf) ![FSC_keshihua](https://github.com/user-attachments/assets/295204ab-bbf4-4535-910c-0c09a78d3a52)
+
 
 </div>
 
