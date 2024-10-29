@@ -30,7 +30,11 @@ The CPSFSC dataset comprises 18 types of ICPS with various defects, including 12
 
 MvPNet consists of three modules: the Perceptive Class-changed Interaction Module, responsible for feature aggregation perception during class changes; the Multi-view Position Aggregation Module, which observes the regions of interest from multiple views and ensures intra-class connectivity; and the Position Localization Refinement Module, which enhances positional information to ensure the stability of features from local to global scales.
 
+<div align=center>
+
 ![MvPNet](https://github.com/user-attachments/assets/88153dca-f0a1-4c81-b973-5b7c5baed533)
+
+</div>
 
 ## Experiments results
 
