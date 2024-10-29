@@ -22,7 +22,7 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 The CPSFSC dataset comprises 18 types of ICPS with various defects, including 12 types of defective single-layer CPS and 6 assembled multi-layer CPS. We randomly divide these 18 types of CPS into a training set, validation set, and test set. The train set includes 6 types of single-layer CPS and 2 types of multi-layer data. Both the validation set and the test set consist of 3 types of single-layer CPS and 2 types of multi-layer CPS. The data in the train set, validation set, and test set are mutually exclusive, meaning that during testing, the model encounters only unseen data categories. This setup provides a more robust evaluation of the few-shot classification algorithm's performance.
 <div align=center>
   
-![Distribution in CPSFS-CLS](https://github.com/user-attachments/assets/17d5c436-f4c5-4952-8774-cc57a615975b) ![Proportion in CPSFS-CLS](https://github.com/user-attachments/assets/b5e4dbe3-ae6d-4626-b9be-e893c77a1b53)
+![Distribution in CPSFS-CLS](https://github.com/user-attachments/assets/5ced38ef-7e95-457c-914c-1da774b551fe) ![Proportion in CPSFS-CLS](https://github.com/user-attachments/assets/82134390-5e78-4386-8cf3-072be8500cd4)
 
 </div>
 
@@ -52,8 +52,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/f5b1bebd-2a7d-417f-9a4e-8e267c1bf5bc) ![CPS_keshihua](https://github.com/user-attachments/assets/134bb6b6-590f-4960-a943-7523a3a2cce1)
-
+![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/832eaf62-abbd-4f8e-b2c2-6bc052e9dbf6) ![fsc_keshihua](https://github.com/user-attachments/assets/b677cd5d-a671-43e5-80d9-b819cb9e9963)
 
 </div>
 
@@ -61,7 +60,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/99a69e99-ecc3-40ce-ace9-a13c80121bcf) ![FSC_keshihua](https://github.com/user-attachments/assets/295204ab-bbf4-4535-910c-0c09a78d3a52)
+![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/b084ee98-022d-4470-a664-fa2240f6b0ff) ![fsc_keshihua](https://github.com/user-attachments/assets/54ee8183-9a98-4e3b-bac3-ccbfbb6a5c6f)
 
 
 </div>
@@ -74,7 +73,8 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![xiaorong](https://github.com/user-attachments/assets/df9ea178-f599-4e2d-a3a1-9ac4916b6ad7)
+![Heat-map](https://github.com/user-attachments/assets/cf9b79db-dff0-44cc-b100-1ffd4d0c1bf0)
+
 
 </div>
 
