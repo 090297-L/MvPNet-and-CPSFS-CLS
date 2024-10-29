@@ -42,4 +42,4 @@ MvPNet consists of three modules: the Perceptive Class-changed Interaction Modul
 
 ## Display video
 
-Display video can be found in 
+Display video of AOI can be found in 
