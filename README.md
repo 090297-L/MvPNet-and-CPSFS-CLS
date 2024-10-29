@@ -11,7 +11,8 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 
 <div align=center>
   
-<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/AOI%20System.png" width="1000px">
+[CPS data acquisition system20.pdf](https://github.com/user-attachments/files/17557037/CPS.data.acquisition.system20.pdf)
+
 
 </div>
 
