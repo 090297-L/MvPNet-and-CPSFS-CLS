@@ -22,7 +22,7 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 The CPSFSC dataset comprises 18 types of ICPS with various defects, including 12 types of defective single-layer CPS and 6 assembled multi-layer CPS. We randomly divide these 18 types of CPS into a training set, validation set, and test set. The train set includes 6 types of single-layer CPS and 2 types of multi-layer data. Both the validation set and the test set consist of 3 types of single-layer CPS and 2 types of multi-layer CPS. The data in the train set, validation set, and test set are mutually exclusive, meaning that during testing, the model encounters only unseen data categories. This setup provides a more robust evaluation of the few-shot classification algorithm's performance.
 <div align=center>
   
-![Distribution in CPSFS-CLS](https://github.com/user-attachments/assets/e375741d-2afc-4173-927f-94ec523004b4) ![Proportion in CPSFS-CLS](https://github.com/user-attachments/assets/e42e3f4f-0fb4-4b37-a77d-ce80abdd1a55)
+![Distribution in CPSFS-CLS](https://github.com/user-attachments/assets/17d5c436-f4c5-4952-8774-cc57a615975b) ![Proportion in CPSFS-CLS](https://github.com/user-attachments/assets/b5e4dbe3-ae6d-4626-b9be-e893c77a1b53)
 
 </div>
 
@@ -30,7 +30,7 @@ The CPSFSC dataset comprises 18 types of ICPS with various defects, including 12
 
 MvPNet consists of three modules: the Perceptive Class-changed Interaction Module, responsible for feature aggregation perception during class changes; the Multi-view Position Aggregation Module, which observes the regions of interest from multiple views and ensures intra-class connectivity; and the Position Localization Refinement Module, which enhances positional information to ensure the stability of features from local to global scales.
 
-![MvPNet](https://github.com/user-attachments/assets/a52652f6-2d7b-4fbc-8a7b-5ee1abd86a09)
+![MvPNet](https://github.com/user-attachments/assets/88153dca-f0a1-4c81-b973-5b7c5baed533)
 
 ## Experiments results
 
@@ -48,7 +48,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/df4d9835-b1c3-4965-9e1b-6829304237f6) ![CPS_keshihua](https://github.com/user-attachments/assets/d0d3729a-ce7d-406d-a43c-c340744dfcf8)
+![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/f5b1bebd-2a7d-417f-9a4e-8e267c1bf5bc) ![CPS_keshihua](https://github.com/user-attachments/assets/4c6d5235-4344-4e8b-ae2a-e084e8c31142)
 
 </div>
 
@@ -56,7 +56,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/4ac607c5-c002-4f87-af48-6a4795ffc446) ![FSC_keshihua](https://github.com/user-attachments/assets/f2a7bbf1-3bce-4a62-bfe8-7643757ec4f7)
+![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/99a69e99-ecc3-40ce-ace9-a13c80121bcf) ![FSC_keshihua](https://github.com/user-attachments/assets/02a7eadb-6c6a-4e04-a064-14c9948c3e20)
 
 </div>
 
@@ -68,7 +68,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![xiaorong](https://github.com/user-attachments/assets/66e0b123-1129-411a-8a12-0776647291a3)
+![xiaorong](https://github.com/user-attachments/assets/df9ea178-f599-4e2d-a3a1-9ac4916b6ad7)
 
 </div>
 
