@@ -29,13 +29,13 @@ MvPNet consists of three modules: the Perceptive Class-changed Interaction Modul
 ### CPSFSC Dataset
 
 <div align=center>
-<img src="https://github.com/090297-L/MvPNet-and-CPSFS-CLS/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20CPSFS-CLS.png" width="450" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/CPS_keshihua.png" width="450" />
+<img src="https://github.com/090297-L/MvPNet-and-CPSFS-CLS/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20CPSFS-CLS.png" width="400" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/CPS_keshihua.png" width="400" />
 </div>
 
 ### FSC-20 Dataset
 
 <div align=center>
-<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20FSC-20.png" width="450" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/FSC_keshihua.png" width="450" />
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20FSC-20.png" width="400" /> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/FSC_keshihua.png" width="400" />
 </div>
 
 
