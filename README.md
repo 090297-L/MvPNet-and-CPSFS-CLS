@@ -11,7 +11,7 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 
 <div align=center>
   
-<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/AOI%20System.png" width="1000px">
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/CPS%20data%20acquisition%20and%20detection%20system.png" width="1500px">
 
 </div>
 
@@ -22,7 +22,7 @@ Initially, the CPS sample is positioned at the input port.     As it enters the 
 The CPSFSC dataset comprises 18 types of ICPS with various defects, including 12 types of defective single-layer CPS and 6 assembled multi-layer CPS. We randomly divide these 18 types of CPS into a training set, validation set, and test set. The train set includes 6 types of single-layer CPS and 2 types of multi-layer data. Both the validation set and the test set consist of 3 types of single-layer CPS and 2 types of multi-layer CPS. The data in the train set, validation set, and test set are mutually exclusive, meaning that during testing, the model encounters only unseen data categories. This setup provides a more robust evaluation of the few-shot classification algorithm's performance.
 <div align=center>
   
-![Distribution in CPSFS-CLS](https://github.com/user-attachments/assets/5ced38ef-7e95-457c-914c-1da774b551fe) ![Proportion in CPSFS-CLS](https://github.com/user-attachments/assets/82134390-5e78-4386-8cf3-072be8500cd4)
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Distribution%20in%20CPSFS-CLS.png" width="800px"> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Proportion%20in%20CPSFS-CLS.png" width="800px">
 
 </div>
 
@@ -32,7 +32,7 @@ MvPNet consists of three modules: the Perceptive Class-changed Interaction Modul
 
 <div align=center>
 
-![MvPNet](https://github.com/user-attachments/assets/88153dca-f0a1-4c81-b973-5b7c5baed533)
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/MvPNet.png" width="1500px">
 
 </div>
 
@@ -52,7 +52,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in CPSFS-CLS](https://github.com/user-attachments/assets/832eaf62-abbd-4f8e-b2c2-6bc052e9dbf6) ![fsc_keshihua](https://github.com/user-attachments/assets/b677cd5d-a671-43e5-80d9-b819cb9e9963)
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20CPSFS-CLS.png" width="800px"> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/cps_keshihua.png" width="800px">
 
 </div>
 
@@ -60,7 +60,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Comparison With SOTA Algorithms in FSC-20](https://github.com/user-attachments/assets/b084ee98-022d-4470-a664-fa2240f6b0ff) ![fsc_keshihua](https://github.com/user-attachments/assets/54ee8183-9a98-4e3b-bac3-ccbfbb6a5c6f)
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Comparison%20With%20SOTA%20Algorithms%20in%20FSC-20.png" width="800px"> <img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/fsc_keshihua.png" width="800px">
 
 
 </div>
@@ -73,8 +73,7 @@ All comparison algorithms can be found in
 
 <div align=center>
 
-![Heat-map](https://github.com/user-attachments/assets/cf9b79db-dff0-44cc-b100-1ffd4d0c1bf0)
-
+<img src="https://github.com/090297-L/MvPNet-and-CPSFSC/blob/main/MvPNet/image/Heat-map.png" width="1200px">
 
 </div>
 
